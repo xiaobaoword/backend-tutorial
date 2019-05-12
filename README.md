@@ -3,11 +3,12 @@
 |                   [💻](#操作系统)                   |                      [🔗](#服务器)                      |                      [💾](#数据库)                      |                      [🐘](#PHP)                      |                      [☁️](#网络)                      |                      [📝](#算法)                      | [📃](#分布式) |                      [🔧](#工具)                      |                      [📁](#缓存)                      |                      [📚](#后记)                      |
 
 <div align="center">
-    <img src="assets/top.png" width="150px">
+    <a htef="https://xiaobaoword.github.io/backend_important/"><img src="assets/top.png" width="150px"></a>
     <br><br>
-    <a href="#"> <img src="https://img.shields.io/badge/%3E-read-9cf.svg"></a>  <a href="#"> <img src="https://img.shields.io/badge/%C2%B7%C2%B7%C2%B7-more-9cf.svg"></a> 
+    <a href="https://xiaobaoword.github.io/backend_important/"> <img src="https://img.shields.io/badge/%3E-read-9cf.svg"></a>  <a href="#"> <img src="https://img.shields.io/badge/%C2%B7%C2%B7%C2%B7-more-9cf.svg"></a> 
     <br> <br>
 </div> 
+
 
 
 
@@ -51,3 +52,37 @@
 - [Zend引擎](#php/Zend引擎)
 - [PHP课程](course/概述.md)
 
+
+
+## 排版
+
+项目内容按照 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines) 进行排版，以保证内容可读性，这里推荐给大家。
+
+简洁高效的Markdown编写工具：[Typora](https://www.typora.io/)
+
+
+
+## 参考文献
+
+人力有穷时，在编写项目中引用了诸多优秀的 GitHub 仓库，本项目的启发来源于好友 [@Frank](https://github.com/frank-lam) 👍特别鸣谢！和一些优秀的开源项目，引用了 [@CyC2018](https://github.com/CyC2018) [@Frank](https://github.com/frank-lam) 中的部分文字和图例；引用了知乎上的热门回答和优秀博客的回答。在这里特别鸣谢，我将每篇文章中做外链引用说明。
+
+文中我也推荐了学习过程中的学习书籍和学习课程 [在这里](course/概述.md)，作者都将附上个人整理出的笔记进行讲解，十分鸣谢在编写过程中参考的博客，文章，视频，书籍，这里没法—感谢，谢谢你们。
+
+
+
+## QQ群
+
+<div align="left">
+    <img src="assets/qq_code.png" width="150px">
+</div> 
+
+一起技术交流，技术提升，欢迎加入～
+
+
+
+## 致谢
+
+感谢所有人对本项目作出的贡献，如果你想添加到这个名单中可以参考 [如何给我的仓库贡献](notes/docs/如何给我的仓库贡献.md) 或联系我。
+
+<a href="https://github.com/xiaobaoword">
+    <img src="https://avatars3.githubusercontent.com/u/37999916?s=460&v=4" width="50px"></a><a href="https://github.com/frank-lam"><img src="https://avatars1.githubusercontent.com/u/19153458?s=460&v=4" width="50px"></a><a href="https://github.com/CyC2018"><img src="https://avatars1.githubusercontent.com/u/36260787?s=460&v=4" width="50px"></a>
