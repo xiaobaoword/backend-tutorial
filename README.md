@@ -4,8 +4,6 @@
 
 &nbsp;
 
-&nbsp;
-
 <div align="center">
     <a htef="https://xiaobaoword.github.io/backend_important/"><img src="assets/top.png" width="150px"></a>
     <br><br>
@@ -20,11 +18,11 @@
 
 ## 前言
 
-- [序](#序)
+- 序
 
   该文是作者自己对自我技术的总结，主要方向是后端开发，希望可以为新人填坑，帮助更多的人理解后端之路，更高效率的学习后端知识。
 
-- [什么是后端开发工程师](notes/PHP/什么是后端开发工程师.md)
+- [什么是后端开发工程师](notes/前言/什么是后端开发工程师.md)
 
   何为面向服务端开发？开发人员需要做什么？如何拥有完善的计算机世界观？如何成为一名合格的开发人员？
 
@@ -56,6 +54,14 @@
 - [PHP扩展](#php/PHP扩展)
 - [Zend引擎](#php/Zend引擎)
 - [PHP课程](course/概述.md)
+
+
+
+## [📃](#分布式)分布式
+
+- [Vagrant](#Vagrant)
+
+
 
 
 
