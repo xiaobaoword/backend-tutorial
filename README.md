@@ -50,8 +50,6 @@
 
 
 
-
-
 ## [🐘](#PHP)PHP
 
 - [什么是PHP](notes/PHP/什么是PHP.md)
@@ -78,6 +76,12 @@
 - [Anypoxy代理服务器](notes/网络/Anyproxy.md)
 
 - socks5 代理服务器
+
+
+
+## [📁](缓存)缓存
+
+- [Redis](#notes/Redis.md)
 
 
 
