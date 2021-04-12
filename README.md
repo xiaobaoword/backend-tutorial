@@ -7,11 +7,12 @@
 <div align="center">
     <a htef="https://xiaobaoword.github.io/backend_important/"><img src="./assets/top.png" width="150px"></a>
     <br><br>
-    <a href="https://xiaobaoword.github.io/backend_important/"> <img src="https://img.shields.io/badge/%3E-read-9cf.svg"></a>  <a href="#"> <img src="https://img.shields.io/badge/%C2%B7%C2%B7%C2%B7-more-9cf.svg"></a> 
+    <a href="https://xiaobaoword.github.io/backend_important/"> 
+      <img src="https://img.shields.io/badge/%3E-read-9cf.svg"></a>  
+  	<a href="#">
+    	<img src="https://img.shields.io/badge/%C2%B7%C2%B7%C2%B7-more-9cf.svg"></a> 
     <br> <br>
 </div> 
-
-
 
 
 
@@ -52,15 +53,24 @@
 
 ## [🐘](#PHP)PHP
 
-- [什么是PHP](notes/PHP/什么是PHP.md)
 - [PHP基础](#php/PHP基础)
+
 - [PHP-FPM](#php/PHP-FPM)
+
 - [SPL](#php/SPL)
-- [思想：面向对象](#php/思想：面向对象)
+
 - [PHP框架](notes/PHP/PHP框架/概述.md)
-- [设计模式](#php/设计模式)
+
+  Laravel、Yii、Ci 等热门框架
+
+- [PHP 设计模式](notes/PHP/PHP设计模式.md)
+
+  PHP 全 23 种设计模式及应用案例
+
 - [PHP扩展](#php/PHP扩展)
+
 - [Zend引擎](#php/Zend引擎)
+
 - [PHP课程](course/概述.md)
 
 
